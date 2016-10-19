@@ -132,3 +132,12 @@ This program is free software and is distributed under an [MIT License](LICENSE)
 <!-- codecov -->
 [codecov-image]: https://codecov.io/gh/aframevr/aframe/branch/master/graph/badge.svg
 [codecov-url]: https://codecov.io/gh/aframevr/aframe
+
+---
+
+Below added by theta360.guide
+
+* [example of gallery image navigation with THETA images]: https://github.com/theta360developers/360gallery
+* [simple example of display of THETA images]: https://github.com/theta360developers/aframe-demo
+
+![Analytics](https://ga-beacon.appspot.com/UA-73311422-5/aframe)
